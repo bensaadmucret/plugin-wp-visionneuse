@@ -62,7 +62,7 @@
                                </a>
 
                                <!-- copyLink 
-                                 <a href="<? php // echo $copyLink 
+                                 <a href="<?php // echo $copyLink 
                                             ?>" target="_blank">
                                      <img width="50px" height="50px" src="<?php //echo plugin_dir_url(__FILE__) . '../public/images/LIEN.png'; 
                                                                             ?>" alt="copyLink">
